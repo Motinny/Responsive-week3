@@ -91,3 +91,8 @@ p {
     text-align:center;
   }
 }
+@ media (min-width: 300px){
+  h2{
+    display:none;
+  }
+}
